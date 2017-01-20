@@ -22,8 +22,7 @@ Example:
           "pin": "031-45-154"
       },
       "description": "This is an example configuration file for homebridge denon RS232 plugin",
-      "hint": "Always paste into jsonlint.com validation page before starting your homebridge, saves a lot of 
-frustration",
+      "hint": "Always paste into jsonlint.com validation page before starting your homebridge, saves a lot of frustration",
       "accessories": [
         {
             "accessory": "DenonRS232",
