@@ -30,5 +30,5 @@ Example:
             "path": "/dev/ttyUSB0"
         }
      ]
-  }
+    }
 
